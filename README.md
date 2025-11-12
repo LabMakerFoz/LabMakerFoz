@@ -51,4 +51,4 @@ Software para módulo Lego NXT
 
 Referências
 -----------
-Disponível em “<http://wiki.foz.ifpr.edu.br/wiki/index.php?title=Robotica&oldid=30157>”
+Disponível em <http://wiki.foz.ifpr.edu.br/wiki/index.php?title=Robotica&oldid=30157>
