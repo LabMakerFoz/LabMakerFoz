@@ -13,41 +13,41 @@ Modalidades
 * Sumô 1 kg (Lego)
 * Mini Sumô 500 g **(Arduíno)**
 
-[Oficina de Robótica com Arduíno]
+Oficina de Robótica com Arduíno
 --------------------------------------------------------------------------------------------
 
-Nesta oficina são desenvolvidos os conhecimentos básicos sobre o **[Arduíno]**, assim como o uso de sensores de linha e controle de motores, necessários para a montagem de **Robôs Seguidores de Linha**.
+Nesta oficina são desenvolvidos os conhecimentos básicos sobre o **'Arduíno**, assim como o uso de sensores de linha e controle de motores, necessários para a montagem de **Robôs Seguidores de Linha**.
 
 ### Materiais sobre robótica com Arduíno
 
 Sensores
 
-* [Sensores e atuadores utilizados nos robôs]
+* Sensores e atuadores utilizados nos robôs
 
 Baterias
 
-* [Baterias utilizados nos robôs]
-* [Como recuperar baterias baixas]
+* Baterias utilizados nos robôs
+* Como recuperar baterias baixas
 
 Seguidor de Linha com controle PID
 ----------------------------------
 
-[Seguidor de Linha com controle PID]
+Seguidor de Linha com controle PID
 :   Página Wiki com resumo da **Teoria de Controle PID** e de uma forma de implementação deste tipo de controle em um **Robô Seguidor de Linha**.
 
 Robótica com Lego Mindstorms
 ----------------------------
 
-O **[Lego Mindstorms]** é uma linha do brinquedo LEGO, voltada para a educação tecnológica. É constituído por um conjunto de peças de montar da linha tradicional LEGO e peças especiais integradas com motores, eixos, engrenagens, polias e correntes, acrescido de sensores de toque, de intensidade luminosa e de temperatura, controlados por um processador programável.
+O **Lego Mindstorms** é uma linha do brinquedo LEGO, voltada para a educação tecnológica. É constituído por um conjunto de peças de montar da linha tradicional LEGO e peças especiais integradas com motores, eixos, engrenagens, polias e correntes, acrescido de sensores de toque, de intensidade luminosa e de temperatura, controlados por um processador programável.
 
 Projetos para Lego NXT 2.0
 
-* [Projetos com Lego Mindstorms]
+* Projetos com Lego Mindstorms
 
 Software para módulo Lego NXT
 
 * O **Lego NXT** usa software proprietário que roda sobre a plataforma **Windows** da **MicroSoft**.
-* O **[Enchanting]** (descontinuado) era uma adaptação da linguagem **[Scratch]**, voltada para a programação dos módulos **Lego NXT**, através da substituição do *firmware* original pelo sistema **LeJOS** (*Lego Java Operating System*).
+* O **Enchanting** (descontinuado) era uma adaptação da linguagem **Scratch**, voltada para a programação dos módulos **Lego NXT**, através da substituição do *firmware* original pelo sistema **LeJOS** (*Lego Java Operating System*).
 
 Referências
 -----------
